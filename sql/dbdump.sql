@@ -1,4 +1,4 @@
-CREATE TABLE Persons
+CREATE TABLE Persons_msic
 (
 PersonID int,
 LastName varchar(255),
